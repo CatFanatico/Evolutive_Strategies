@@ -8,4 +8,4 @@ CONTENTS:
 
  - rastrigin: Features a genetic algorithm tasked with optimizing the Rastrigin function.
 
-The codebase, updated as of December 31, 2025, was originally developed to fulfill Master's level coursework requirements at the Instituto de Investigaciones en Inteligencia Artificial. Future updates and code optimizations will be implemented subject to the author's availability. Additionally, reports written in Spanish are included, detailing some of the results obtained using these methods
+The codebase, updated as of December 31, 2025, was originally developed to fulfill Master's level coursework requirements at the Instituto de Investigaciones en Inteligencia Artificial. Future updates and code optimizations will be implemented subject my free time.
